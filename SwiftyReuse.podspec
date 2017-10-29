@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name = "SwiftyReuse"
-  s.version = "0.0.1"
+  s.version = "0.1.0"
   s.summary = "A microframework that makes register dequeuing of cells in UICollectionView and UITableView pretier."
   s.author = { "Kim de Vos" => "kimdevos12@hotmail.com" }
   s.homepage = 'https://github.com/kimdv/SwiftyReuse'
