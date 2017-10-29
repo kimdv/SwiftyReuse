@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'http://twitter.com/kimdv'
   s.license = "MIT"
 
-  s.source = { :git => "https://github.com/kimdv/SwiftyReuse", :tag => s.version }
+  s.source = { :git => "https://github.com/kimdv/SwiftyReuse.git", :tag => s.version }
   s.source_files = "Sources/**/*.swift"
   
   s.ios.deployment_target = "11.0"
